@@ -1,19 +1,18 @@
 ---
-title: 'Project 1'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: "Babel"
+description: "A real-time mobile based language translation application."
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+  url: "/babel/Babel.png"
+  alt: "Babel"
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+  url: "/babel/banner1.png"
+  alt: "babel1"
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+  url: "/babel/banner2.png"
+  alt: "babel2"
+platform: Android
+stack: Dart, Flutter
+github: https://github.com/Jchael12/Babel-Mobile-Translation-App
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Babel is a real-time mobile based language translation application for the students who studies foreign languages in Spraken National Highschool.
